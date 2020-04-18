@@ -11,3 +11,5 @@ For compilation I use the Visual Studio 2017 compiler.
 Here's the first message box that I got from the game: 
 
 <img src="data/screenshots/github1.png">
+
+Congratulations! We are definitely on our way to create the best 2D adventure game out there!
