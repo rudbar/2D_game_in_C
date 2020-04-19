@@ -13,3 +13,13 @@ Here's the first message box that I got from the game:
 <img src="data/screenshots/github1.png">
 
 Congratulations! We are definitely on our way to create the best 2D adventure game out there!
+
+Implemented the window which redraws itself with white and black as you resize it:
+
+White:
+
+<img src="data/screenshots/github3.png">
+
+And black:
+
+<img src="data/screenshots/github4.png">
