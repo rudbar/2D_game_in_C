@@ -23,3 +23,4 @@ White:
 And black:
 
 <img src="data/screenshots/github4.png">
+Also I've been thinking about the name of the game and came up with Tom the Man, sounds pretty dope.
